@@ -1,2 +1,2 @@
-# AlumiCommittee-Openmind-SZ
+# AlumniCommittee-Openmind-SZ
 cooperation repository
